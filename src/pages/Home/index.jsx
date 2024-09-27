@@ -1,12 +1,14 @@
 import React from "react";
-import PlannerCard from "../../components/PlannerCard"
+import AdmAddEditPlanner from "../../components/AdmAddEditPlanner";
+import PageBody from "../../components/PageBody";
 
 class Home extends React.Component {
   render() {
     return (
       <>
-        
-        <h1>Let's go!</h1>
+        <PageBody>
+       
+        </PageBody>
       </>
     );
   }
